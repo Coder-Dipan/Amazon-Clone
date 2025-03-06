@@ -1,2 +1,2 @@
 # Amazon-Clone
-amazon.com global version cloning.
+This is the project of amazon.com global version cloning.
